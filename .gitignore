@@ -1,2 +1,7 @@
 node_modules
 .angular
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/Test-Angular/config/applicationhost.config
+.vs/Test-Angular/FileContentIndex/725e0882-f08e-4e45-922b-6afc1e59a119.vsidx
+.vs/Test-Angular/v17/.wsuo
